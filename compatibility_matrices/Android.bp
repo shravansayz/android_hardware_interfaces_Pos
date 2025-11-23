@@ -88,6 +88,7 @@ vintf_compatibility_matrix {
         "compatibility_matrix.5.xml",
     ],
     kernel_configs: [
+        "kernel_config_p_4.4",
         "kernel_config_q_4.9",
         "kernel_config_r_5.4",
     ],
@@ -100,6 +101,7 @@ vintf_compatibility_matrix {
         "compatibility_matrix.6.xml",
     ],
     kernel_configs: [
+        "kernel_config_q_4.9",
         "kernel_config_s_4.14",
         "kernel_config_s_4.19",
         "kernel_config_s_5.4",
